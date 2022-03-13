@@ -19,7 +19,7 @@ values for the last 1 minute, these peaks will be able to be detected.
 
 ## Usage
 
-```
+```go
 import (
 	"fmt"
 	"time"
@@ -48,7 +48,7 @@ func main() {
 	fmt.Printf("max: %3v\n", max)
 }
 ```
-[Run in Go Playground](https://play.golang.org/)
+[Run in Go Playground](https://go.dev/play/p/MPCpKkrw_UG?v=gotip)
 
 ## Limitation
 
